@@ -1,6 +1,7 @@
 ## __DFO API Work Showcase__
 
 <u>Introduction</u>
+
 Dungeon Fighter Online is an arcade-type belt-scrolling action game mixed with RPG elements and epic storyline.
 
 Originally known as Dungeon & Fighter in Korea, the korea server (kDNF) allows public access to its open source application programming interface (API) containing various in-game information, most notably character information showing the character's equipment and status. Other information includes character ranking, item quality of the day, item data, equipment farming guide, growth simulator, etc.
@@ -10,6 +11,7 @@ Using the data available from API, kDNF game community/players have built and ma
 * https://dfcat.net/
 
 <u>Global Server</u>
+
 In 2015, the game developer Neople Inc. dedicated a group to manage a global-based server of the same game under the name Dungeon Fighter Online (DFO or DFOG) to cater for players around the world (except for a few countries with their own local game server).
 Official website: https://www.dfoneople.com/
 
@@ -21,4 +23,5 @@ Survey results as followed:
 * https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha1yzyU30WhCSSOIKN2yya22AkB9yc_kD9Rg2iM-7k3XQdJLAufYpNwH72r3_3-5GyjyjRI5wxDem9CofzwMCsk_rHq-wKLFZBC9ZOpI4ouWkUS6rljI7xdvhHowtlsU9lJ4FaWHo9LbGWlkCf09DsL6ZZdsrYGzxTitJpxUpuldYKjpr1JVPkupEX/s1335/ApplicationFrameHost_cAduyXFB93.png
 
 <u>Work Goal</u>
+
 This project/work serves as an effort to showcase my own knowledge and experience in utilizing API to extract information in order to boost the developer's confidence in releaseing the API. It could also encourage the game community to look into utilizing the API for the benefits of all players. This work also acts as a work showcase for the survey conducted.
