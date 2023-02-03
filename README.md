@@ -6,13 +6,13 @@ Dungeon Fighter Online is an arcade-type belt-scrolling action game mixed with R
 
 Originally known as Dungeon & Fighter in Korea, the korea server (kDNF) allows public access to its open source application programming interface (API) containing various in-game information, most notably character information showing the character's equipment and status. Other information includes character ranking, item quality of the day, item data, equipment farming guide, growth simulator, etc.
 
-Using the data available from API, kDNF game community/players have built and managed game server information websites, where the public is able to view in-game information without logging into the game. Notable websites are as followed:
+Using the data available from API, kDNF game community/players have built and managed game server information websites, where the public is able to view in-game information without logging into the game. Notable websites are:
 * https://dunfaoff.com/
 * https://dfcat.net/
 
 #### <ins>Global Server</ins>
 
-In 2015, the game developer Neople Inc. dedicated a group to manage a global-based server of the same game under the name Dungeon Fighter Online (DFO or DFOG) to cater for players around the world (except for a few countries with their own local game server).
+In 2015, the game developer Neople Inc. dedicated a group to manage a global-based server of the same game under the name Dungeon Fighter Online (DFO or DFOG) to cater for players around the world (except for a few countries with their own local game server). <br>
 Official website: https://www.dfoneople.com/
 
 Since the global server is managed by Neople staff directly, DFOG game stats (in terms of content difficulty, item stats, etc) largely follow kDNF. As such, DFOG players would often visit the kDNF community built websites for references (mostly on equipment builds). Since then, there have been request by the DFOG players to release the game server API for similar purposes. 
