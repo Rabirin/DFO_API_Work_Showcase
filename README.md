@@ -1,6 +1,6 @@
 ## __DFO API Work Showcase__
 
-<u>Introduction</u>
+#### <ins>Introduction</ins>
 
 Dungeon Fighter Online is an arcade-type belt-scrolling action game mixed with RPG elements and epic storyline.
 
@@ -10,7 +10,7 @@ Using the data available from API, kDNF game community/players have built and ma
 * https://dunfaoff.com/
 * https://dfcat.net/
 
-<u>Global Server</u>
+#### <ins>Global Server</ins>
 
 In 2015, the game developer Neople Inc. dedicated a group to manage a global-based server of the same game under the name Dungeon Fighter Online (DFO or DFOG) to cater for players around the world (except for a few countries with their own local game server).
 Official website: https://www.dfoneople.com/
@@ -22,6 +22,6 @@ Survey results as followed:
 * https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNLyPSpkTNjh8G-B8lJgDKL6pgWJVGMOFNOTpY2Y2DIshg1y5_ucOMdq0D0GU58LCbcEYn2Buk4Jabilp43KXAuT-lo3AVoUmtaKhzNy1gALR3ai7w_iKXJAt4Y_P5xhCJYgjaBCJWgc2ak1JyfI3yusea3891qJf2p5E_WtC-_JgmQJwbB27tlkXx/s1326/ApplicationFrameHost_QmQyWxe21X.png
 * https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha1yzyU30WhCSSOIKN2yya22AkB9yc_kD9Rg2iM-7k3XQdJLAufYpNwH72r3_3-5GyjyjRI5wxDem9CofzwMCsk_rHq-wKLFZBC9ZOpI4ouWkUS6rljI7xdvhHowtlsU9lJ4FaWHo9LbGWlkCf09DsL6ZZdsrYGzxTitJpxUpuldYKjpr1JVPkupEX/s1335/ApplicationFrameHost_cAduyXFB93.png
 
-<u>Work Goal</u>
+#### <ins>Work Goal</ins>
 
 This project/work serves as an effort to showcase my own knowledge and experience in utilizing API to extract information in order to boost the developer's confidence in releaseing the API. It could also encourage the game community to look into utilizing the API for the benefits of all players. This work also acts as a work showcase for the survey conducted.
