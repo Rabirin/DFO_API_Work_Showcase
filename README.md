@@ -28,5 +28,5 @@ This project/work serves as an effort to showcase my own knowledge and experienc
 
 #### <ins>Further Readings</ins>
 
-Refer to file "Project_Information.txt" for more details. <br>
+Refer to file "Work_Information.md" for more details. <br>
 Refer to file "dfcat_api_data_extract.ipynb" for codes used to generate the html ouput files.
