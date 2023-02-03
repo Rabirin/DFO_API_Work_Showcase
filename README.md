@@ -25,3 +25,8 @@ Survey results as followed:
 #### <ins>Work Goal</ins>
 
 This project/work serves as an effort to showcase my own knowledge and experience in utilizing API to extract information in order to boost the developer's confidence in releaseing the API. It could also encourage the game community to look into utilizing the API for the benefits of all players. This work also acts as a work showcase for the survey conducted.
+
+#### <ins>Further Readings</ins>
+
+Refer to file "Project_Information.txt" for more details. <br>
+Refer to file "dfcat_api_data_extract.ipynb" for codes used to generate the html ouput files.
